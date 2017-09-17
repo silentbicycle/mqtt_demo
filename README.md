@@ -13,3 +13,10 @@ packages as well as the basic mosquitto packages to get the headers.
 
 [mosquitto]: http://mosquitto.org
 [MQTT]: http://mqtt.org/
+
+
+# NOTE: THIS EXAMPLE MAY BE OUT OF DATE!
+
+It was written four years ago and the Mosquitto C library has had API
+changes. This example is no longer actively maintained (but pull
+requests or requests to take over maintainership are welcome).
